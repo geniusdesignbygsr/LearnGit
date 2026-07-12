@@ -11,8 +11,12 @@ def print_hi(name):
 def print_bye(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'By, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+print ("adding dummy line in between")
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_bye('PyCharm')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print("adding dummy line at the end")
